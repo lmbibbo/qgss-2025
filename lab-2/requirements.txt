@@ -1,0 +1,7 @@
+qiskit
+git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git
+qiskit_ibm_runtime
+matplotlib
+qiskit-serverless
+qiskit_aer
+pylatexenc
