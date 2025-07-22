@@ -7,3 +7,4 @@ ffsim
 qiskit-serverless
 qiskit_aer
 pylatexenc
+graphviz
